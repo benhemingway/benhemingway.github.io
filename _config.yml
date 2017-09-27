@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 # setup
 title: Ben Hemingway
+description: Ben Hemingway's Personal Webpage
 tagline: Ben Hemingway's Personal Webpage
 baseurl: ""
 paginate: 1
