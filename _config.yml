@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-name: Benjamin Hemingway
+title: Benjamin Hemingway
+description: Benjamin Hemingway's Personal Webpage
 markdown: kramdown
 plugins:
   - jekyll-sitemap
