@@ -1,6 +1,20 @@
 theme: jekyll-theme-cayman
-title: Benjamin Hemingway
-description: Benjamin Hemingway's Personal Webpage
-markdown: kramdown
+# setup
+title: Ben Hemingway
+tagline: Ben Hemingway's Personal Webpage
+baseurl: ""
+paginate: 1
+
+# About/contact
+author:
+  name: Ben Hemingway
+  url: https://benhemingway.github.io/
+
+# plugins
 plugins:
   - jekyll-sitemap
+# gems
+gems:
+  - jekyll-paginate
+# others
+markdown: kramdown
