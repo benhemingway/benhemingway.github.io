@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 # setup
 title: Ben Hemingway
-description: Ben Hemingway's Personal Webpage
-tagline: Ben Hemingway's Personal Webpage
+description: PhD Candidate in Economics, University College London
+tagline: Ben Hemingway, PhD Candidate in Economics, University College London
 baseurl: ""
 paginate: 1
 
@@ -18,4 +18,5 @@ plugins:
 gems:
   - jekyll-paginate
 # others
+include: ['_pages']
 markdown: kramdown
