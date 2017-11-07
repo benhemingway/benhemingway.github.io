@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-# Working Papers
+# Job Market Paper
 
-**Macroeconomic implications of bankruptcy regimes**
+**Macroeconomic implications of insolvency regimes**
 
-This paper investigates the importance of creditor and debtor rights in bankruptcy on firm production decisions. I build a heterogeneous firm model with financial frictions where defaulting firms can enter bankruptcy and continue production or be liquidated and exit. Financial frictions impact firm production decisions as firms must pay for capital and wages at the beginning of the period. First, the model finds that financially constrained firms are less capital intensive and have a lower capital-to-labour ratio than unconstrained firms. Second, it is shown that creditor-friendly regimes result in fewer defaults and worse outcomes for defaulting firms when compared to debtor-friendly regimes. A creditor-friendly bankruptcy regime is shown to lead to higher aggregate capital-to-labour ratios in the steady-state compared to a debtor-friendly regime. The dynamic response to negative shocks is also considered.
+This paper investigates the importance of creditor and debtor rights in insolvency on firm production and aggregate labour productivity. I build a heterogeneous firm model with financial frictions where defaulting firms can enter insolvency and continue production or be liquidated and exit. Financial frictions impact firm production decisions and makes capital relatively more costly than labour for borrowing constrained firms. As a result, financially constrained firms are less capital intensive and have a lower capital-to-labour ratio than unconstrained firms. Two insolvency regimes are compared, a creditor-friendly regime such as the UK and a debtor-friendly regime such as the US. Debtor-friendly regimes are shown to be more costly in the steady-state, leading to larger spreads on firm debt. The model dynamics find a response to productivity shocks that are largely consistent with the UK and the US following the financial crisis. The model predicts that labour productivity falls more sharply in the creditor-friendly regime while employment does not. This paper suggests a possible explanation for the different employment and labour productivity response in the UK and US since the Financial Crisis.
 
 # Work in Progress
 
