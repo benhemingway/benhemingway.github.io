@@ -16,6 +16,6 @@ This paper investigates how creditor and debtor rights in the case of firm insol
 
 In this paper we develop a model of bank lending to small-to-medium enterprises (SMEs). Combining a bi-annual survey of European SME financing decisions with a contemporaneous EU-wide banking conditions survey, we empirically evaluate the determinants of successful loan applications during the financial crisis.
 
-**Debt maturity in a model of liquidity requirements and information asymmetry**
+**Collateral screening in a model of liquidity requirements and information asymmetry**
 
 Following the financial crisis there was a renewed emphasis on banking regulation, including the strengthening of liquidity requirements. At the same time, in the face of increased lending banks were reducing their lending. This paper explores the role debt collateral plays as a screening device in the presence of information asymmetry and bank liquidity requirements. The tightening of liquidity requirements makes collateral requirements on all loans increase and as a result the screening of borrowers becomes more difficult, leading to a misallocation of capital.
