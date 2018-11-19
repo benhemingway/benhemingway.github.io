@@ -1,22 +1,21 @@
 theme: jekyll-theme-cayman
 # setup
 title: Ben Hemingway
-description: PhD Candidate in Economics, University College London
-tagline: Ben Hemingway, PhD Candidate in Economics, University College London
+description: Senior Economist CEFER, Bank of Lithuania
 baseurl: ""
-paginate: 1
+
+# repository
+repository: benhemingway/benhemingway.github.io
 
 # About/contact
 author:
   name: Ben Hemingway
   url: https://benhemingway.github.io/
 
-# plugins
+# plugins (formerly gems)
 plugins:
   - jekyll-sitemap
-# gems
-gems:
-  - jekyll-paginate
 # others
 include: ['_pages']
 markdown: kramdown
+github: [metadata]
