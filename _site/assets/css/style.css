@@ -323,3 +323,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .page-header { padding: 1rem 1rem; } }
 
 .small-page-header { color: #fff; text-align: center; background-color: #00838F; background-image: linear-gradient(120deg, #1A5276, #00838F); padding: 1rem 1rem; }
+
+.author_img { float: right; margin-left: 15px; margin-right: 15px; margin-bottom: 15px; display: inline; }
+
+@media (min-width: 320px) and (max-width: 767px) { .author_img { float: none; display: table; margin: 0 auto; margin-bottom: 15px; } }
