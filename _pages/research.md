@@ -17,7 +17,7 @@ The impact of creditor and debtor rights following firm insolvency are studied i
 
 **A Model of Credit Rationing in SME Loan Applications** [Available on request]
 
-This paper is concerned with building  a modelling framework for the study of SME loan applications that is consistent with existing survey data. Specifically, it aims to capture several observable features of the loan market. First, firms choose whether they apply for a loan, and firms that do not apply for loans may not need a loan, or may think they will not obtain a loan. Second, a firm's loan application may not be successful. A firm may receive only part of the funding it had requested, or it may have its loan application outright. By explicitly modelling the loan application phase, I am able to justify why firms apply for loans and are still subsequently rejected. This chapter also provides a theoretical contribution in that there is the possibility, in a model without asymmetric information, of 'pure credit rationing' where observationally equivalent firms are granted a loan with while others are not. This result is made possible because of the additional loan application phase.
+This paper builds a modelling framework of SME loan applications that is consistent with existing several observable features of the loan market. In the first stage firms decide whether to apply for a loan. Firms that do not apply for loans may do so for two reasons, either they do not need a loan or they believe they will not obtain a loan. In the second stage, a firm's loan application may not be successful. A firm may receive only part of the funding it had requested, or it may have its loan application outright.
 
 # Work in Progress
 
