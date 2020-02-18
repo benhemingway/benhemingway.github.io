@@ -9,7 +9,7 @@ permalink: /research/
 **Banking regulation and collateral screening in a model of information
 asymmetry** [Paper](/assets/papers/BankReg_AsymInfo.pdf)
 
-This paper explores the impact of banking regulation on a competitive credit market with ex-ante asymmetric information and aggregate uncertainty. I consider two regulatory interventions, capital requirements and a regulatory stress-test. The stress-test provides a dual role for collateral. First, as is standard in adverse selection problems it allows banks to screen firms. Second it also the bank to satisfy any regulatory constraint by reducing the loss given default on bank loans. Banking regulation impacts both the loan terms and the type of equilibrium, if firms do not have sufficient collateral, a pooling equilibrium exists.
+This paper explores the impact of banking regulation on a competitive credit market with ex-ante asymmetric information and aggregate uncertainty. I construct a model where the government to impose a regulatory constraint that limits the losses banks make in the event of their default. I show that the addition of banking regulation results in three deviations from the standard theory. First, collateral is demanded of both high and low risk firms, even in the absence of asymmetric information. Second, if banking regulation is sufficiently strict, there may not exist an adverse selection problem. Third, a pooling Nash equilibrium can exist.
 
 **Macroeconomic implications of insolvency regimes** [Paper](/assets/papers/Insolvency_Regimes.pdf)
 
