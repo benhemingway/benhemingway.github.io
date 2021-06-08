@@ -6,8 +6,8 @@ permalink: /research/
 # Publications
 
 **[Banking regulation and collateral screening in a model of information
-asymmetry](https://doi.org/10.1007/s10693-021-00357-w)**<br/>
-*[Journal of Financial Services Research (2021)](https://doi.org/10.1007/s10693-021-00357-w)*<br/>
+asymmetry](https://rdcu.be/cl7KW)**<br/>
+*[Journal of Financial Services Research (2021)](https://rdcu.be/cl7KW)*<br/>
 *Also available as [Bank of Lithuania Working Paper No 73.](https://www.lb.lt/uploads/publications/docs/24401_c4bc8a1853cb6af4024e59679bb2b745.pdf)*<br/>
 This paper explores the impact of banking regulation on a competitive credit market with ex-ante asymmetric information and aggregate uncertainty. I construct a model where the government imposes a regulatory constraint that limits the losses banks make in the event of their default. I show that the addition of banking regulation results in three deviations from the standard theory. First, collateral is demanded of both high and low risk firms, even in the absence of asymmetric information. Second, if banking regulation is sufficiently strict, there may not exist an adverse selection problem. Third, a pooling Nash equilibrium can exist.
 
