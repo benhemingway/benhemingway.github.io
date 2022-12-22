@@ -13,12 +13,13 @@ This paper explores the impact of banking regulation on a competitive credit mar
 
 # Working Papers
 
+**[The Impact of CBDC on Bank Deposits and the Interbank Market](/assets/papers/CBDC_deposits.pdf)**<br/>
+*Also available as [Bank of Lithuania Working Paper No 110.](https://www.lb.lt/uploads/publications/docs/39400_5a18e567cf57306b5587398e41efe993.pdf)*<br/>
+This paper investigates how the introduction of a central bank digital currency (CBDC) impacts the banking sector. The deposit market is modeled as a Salop circle and deposits are subject to liquidity shocks. Absent a CBDC the interbank market can redistribute liquidity between banks. However, the central bank does not take part in the interbank market and CBDC leads to greater reliance of the banking sector on central bank standing facilities. The model shows adjusting the remuneration rate of CBDC has little pass-through to the deposit rate set by banks and may have implications for transmission of monetary policy.
+
 **[Macroeconomic implications of insolvency regimes](/assets/papers/Insolvency_Regimes.pdf)**<br/>
 *Also available as [Bank of Lithuania Working Paper No 77.](https://www.lb.lt/uploads/publications/docs/26008_1997892e97b2105c6033975eca02ae09.pdf)*<br/>
 The impacts of creditor and debtor rights following firm insolvency are studied in a firm dynamics model where defaulting firms choose between restructuring or exit. The model accounts for differing effects of productivity shocks across economies that differ in the credit/debtor rights. Following a negative shock labour productivity falls sharply in a creditor-friendly regime such as the UK while in a debtor-friendly regime such as the US, there is a larger employment response. This paper suggests a possible explanation for the different employment and labour productivity response in the UK and US since the financial crisis.
-
-**[The Impact of CBDC on Bank Deposits and the Interbank Market](/assets/papers/CBDC_deposits.pdf)**<br/>
-This paper investigates how the introduction of a central bank digital currency (CBDC) impacts the banking sector. The deposit market is modeled as a Salop circle and deposits are subject to liquidity shocks. Absent a CBDC the interbank market can redistribute liquidity between banks. However, the central bank does not take part in the interbank market and CBDC leads to greater reliance of the banking sector on central bank standing facilities. The model shows adjusting the remuneration rate of CBDC has little pass-through to the deposit rate set by banks and may have implications for transmission of monetary policy.
 
 **The Impact of Bank Competition on Loan Applications** [Under Revision]<br/>
 How does competition in the loan market affect firm loan applications? I model competition in a loan market where firms choose between applying to a bank, an uninformed lender or neither. Banks have an informational advantage over lenders in the form of a costly creditworthiness test. The choice of lender depends on the ex ante riskiness of the borrower. Low risk borrowers apply to the uninformed lender, high risk firms do not apply for loans while intermediate risk borrowers apply for banks. The model predicts that increased bank concentration benefits higher risk borrowers at the cost of lower risk borrowers.
