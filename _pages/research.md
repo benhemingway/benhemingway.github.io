@@ -13,9 +13,9 @@ This paper explores the impact of banking regulation on a competitive credit mar
 
 # Working Papers
 
-**[The Impact of CBDC on Bank Deposits and the Interbank Market](/assets/papers/CBDC_deposits.pdf)**<br/>
-*Also available as [Bank of Lithuania Working Paper No 110.](https://www.lb.lt/uploads/publications/docs/39400_5a18e567cf57306b5587398e41efe993.pdf)*<br/>
-This paper investigates how the introduction of a central bank digital currency (CBDC) impacts the banking sector. The deposit market is modeled as a Salop circle and deposits are subject to liquidity shocks. Absent a CBDC the interbank market can redistribute liquidity between banks. However, the central bank does not take part in the interbank market and CBDC leads to greater reliance of the banking sector on central bank standing facilities. The model shows adjusting the remuneration rate of CBDC has little pass-through to the deposit rate set by banks and may have implications for transmission of monetary policy.
+**[The impact of central bank digital currency on bank deposits and the interbank market [Latest Version]](/assets/papers/CBDC_deposits.pdf)**<br/>
+*Previous working paper version [Bank of Lithuania Working Paper No 110.](https://www.lb.lt/uploads/publications/docs/39400_5a18e567cf57306b5587398e41efe993.pdf)*<br/>
+This paper proposes a theoretical model in which a central bank digital currency (CBDC) and bank deposits are imperfect substitutes. Deposits are subject to liquidity shocks. In the absence of a CBDC, the interbank market can redistribute liquidity between banks. The introduction of CBDC leads to a greater reliance of the banking sector on central bank standing facilities. Calibrating the model to the euro area, the model shows that adjusting the remuneration rate of CBDC has little pass-through to the deposit rate set by banks and also has implications for the transmission of monetary policy.
 
 **[Macroeconomic implications of insolvency regimes](/assets/papers/Insolvency_Regimes.pdf)**<br/>
 *Also available as [Bank of Lithuania Working Paper No 77.](https://www.lb.lt/uploads/publications/docs/26008_1997892e97b2105c6033975eca02ae09.pdf)*<br/>
