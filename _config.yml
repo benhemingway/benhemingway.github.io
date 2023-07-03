@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 # setup
-title: Ben Hemingway
-description: Senior Economist CEFER, Bank of Lithuania
+title: Benjamin Hemingway
+description: Research Economist, CBDC Unit, Bank of England
 baseurl: ""
 
 # repository
@@ -9,7 +9,7 @@ repository: benhemingway/benhemingway.github.io
 
 # About/contact
 author:
-  name: Ben Hemingway
+  name: Benjamin Hemingway
   url: https://benhemingway.github.io/
 
 # plugins (formerly gems)
