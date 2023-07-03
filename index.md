@@ -4,17 +4,20 @@ title: Ben Hemingway
 ---
 ![image](assets/images/author.jpg "Photo of the author"){:.author_img}
 ## Welcome
-I am a Senior Economist at the [Center for Excellence in Finance and Economic Research](https://www.lb.lt/en/cefer) (CEFER) of the Bank of Lithuania and Research Fellow at the [Faculty of Economics and Business Administration](http://www.evaf.vu.lt/en/) of Vilnius University. 
 
+I am a Research Economist at the Bank of England, woring in the Central Bank Digital Currency unit.
 
-I recently completed my PhD at University College London (UCL). My research is in macroeconomics with a focus on firm dynamics and corporate finance.
+Previously, I was a Senior Economist at the [Center for Excellence in Finance and Economic Research](https://www.lb.lt/en/cefer) (CEFER) of the Bank of Lithuania and Research Fellow at the [Faculty of Economics and Business Administration](http://www.evaf.vu.lt/en/) of Vilnius University. 
+
+In 2018 I completed my PhD at University College London (UCL). My research is in macroeconomics with a focus on firm dynamics and corporate finance.
 
 ## Contact Details
 ```
-Totoriu g. 4,
-CEFER, Bank of Lithuania
-LT-01121 Vilnius
-Lithuania 
+Bank of England,
+Threadneedle Street, 
+London, 
+EC2R 8AH
+UK.
 ```
 
-Email: [bhemingway@lb.lt](mailto:bhemingway@lb.lt)
+Email: [benjamin.hemingway@bankofengland.co.uk](mailto:benjamin.hemingway@bankofengland.co.uk)
