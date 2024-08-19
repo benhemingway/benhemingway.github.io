@@ -13,6 +13,10 @@ This paper explores the impact of banking regulation on a competitive credit mar
 
 # Working Papers
 
+**[The role of central bank digital currency in an increasingly digital economy](/assets/papers/CBDC_digital_economy.pdf)**<br/>
+The introduction of an unremunerated retail central bank digital currency (CBDC) is currently under consideration by several central banks. Motivated by the decline in transactional cash usage and the increase in online sales in the UK, this paper provides a theoretical framework to study the underlying drivers of these trends and the welfare implications of introducing an unremunerated retail CBDC. A cash credit model with physical and digital retail sectors is developed, with endogenous entry of firms and directed consumer search. Calibrating to UK data between 2010 and 2022 the model suggests that there are positive welfare gains from introducing an unremunerated retail CBDC, but these have likely declined over time.
+
+
 **[The impact of central bank digital currency on bank deposits and the interbank market](/assets/papers/CBDC_deposits.pdf)**<br/>
 *Previous working paper version [Bank of Lithuania Working Paper No 110.](https://www.lb.lt/uploads/publications/docs/39400_5a18e567cf57306b5587398e41efe993.pdf)*<br/>
 This paper proposes a theoretical model in which a central bank digital currency (CBDC) and bank deposits are imperfect substitutes. Deposits are subject to liquidity shocks. In the absence of a CBDC, the interbank market can redistribute liquidity between banks. The introduction of CBDC leads to a greater reliance of the banking sector on central bank standing facilities. Calibrating the model to the euro area, the model shows that adjusting the remuneration rate of CBDC has little pass-through to the deposit rate set by banks and also has implications for the transmission of monetary policy.
