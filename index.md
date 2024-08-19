@@ -9,7 +9,7 @@ I am a Research Economist at the Bank of England, working in the Central Bank Di
 
 Previously, I was a Senior Economist at the [Center for Excellence in Finance and Economic Research](https://www.lb.lt/en/cefer) (CEFER) of the Bank of Lithuania and Research Fellow at the [Faculty of Economics and Business Administration](http://www.evaf.vu.lt/en/) of Vilnius University. 
 
-In 2018 I completed my PhD at University College London (UCL). My research is focused on Macroeconomics, Central Bank Digital Currency and Banking.
+In 2018 I completed my PhD at University College London (UCL). My research is focused on Macroeconomics, Central Bank Digital Currency, Money, and Banking.
 
 ## Contact Details
 ```
