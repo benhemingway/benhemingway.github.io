@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Current Teaching
+## Past Teaching
 
 ### Introduction to MATLAB
 **Vilnius University (2018)** Part of the PhD Research Methods Course
