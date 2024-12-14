@@ -14,6 +14,7 @@ This paper explores the impact of banking regulation on a competitive credit mar
 # Working Papers
 
 **[The role of central bank digital currency in an increasingly digital economy](/assets/papers/CBDC_digital_economy.pdf)**<br/>
+Available as [Bank of England Staff Working Paper No. 1,101.](https://www.bankofengland.co.uk/working-paper/2024/the-role-of-cbdc-in-an-increasingly-digital-economy)*<br/>
 The introduction of an unremunerated retail central bank digital currency (CBDC) is currently under consideration by several central banks. Motivated by the decline in transactional cash usage and the increase in online sales in the UK, this paper provides a theoretical framework to study the underlying drivers of these trends and the welfare implications of introducing an unremunerated retail CBDC. A cash credit model with physical and digital retail sectors is developed, with endogenous entry of firms and directed consumer search. Calibrating to UK data between 2010 and 2022 the model suggests that there are positive welfare gains from introducing an unremunerated retail CBDC, but these have likely declined over time.
 
 
@@ -22,10 +23,10 @@ The introduction of an unremunerated retail central bank digital currency (CBDC)
 This paper proposes a theoretical model in which a central bank digital currency (CBDC) and bank deposits are imperfect substitutes. Deposits are subject to liquidity shocks. In the absence of a CBDC, the interbank market can redistribute liquidity between banks. The introduction of CBDC leads to a greater reliance of the banking sector on central bank standing facilities. Calibrating the model to the euro area, the model shows that adjusting the remuneration rate of CBDC has little pass-through to the deposit rate set by banks and also has implications for the transmission of monetary policy especially if the CBDC is unremunerated.
 
 **[Macroeconomic implications of insolvency regimes](/assets/papers/Insolvency_Regimes.pdf)**<br/>
-*Also available as [Bank of Lithuania Working Paper No 77.](https://www.lb.lt/uploads/publications/docs/26008_1997892e97b2105c6033975eca02ae09.pdf)*<br/>
+*Available as [Bank of Lithuania Working Paper No 77.](https://www.lb.lt/uploads/publications/docs/26008_1997892e97b2105c6033975eca02ae09.pdf)*<br/>
 The impacts of creditor and debtor rights following firm insolvency are studied in a firm dynamics model where defaulting firms choose between restructuring or exit. The model accounts for differing effects of productivity shocks across economies that differ in the credit/debtor rights. Following a negative shock labour productivity falls sharply in a creditor-friendly regime such as the UK while in a debtor-friendly regime such as the US, there is a larger employment response. This paper suggests a possible explanation for the different employment and labour productivity response in the UK and US since the financial crisis.
 
-**The Impact of Bank Competition on Loan Applications** [Under Revision]<br/>
+**The Impact of Bank Competition on Loan Applications** <br/>
 How does competition in the loan market affect firm loan applications? I model competition in a loan market where firms choose between applying to a bank, an uninformed lender or neither. Banks have an informational advantage over lenders in the form of a costly creditworthiness test. The choice of lender depends on the ex ante riskiness of the borrower. Low risk borrowers apply to the uninformed lender, high risk firms do not apply for loans while intermediate risk borrowers apply for banks. The model predicts that increased bank concentration benefits higher risk borrowers at the cost of lower risk borrowers.
 
 # Work in Progress
