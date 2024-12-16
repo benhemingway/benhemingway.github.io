@@ -14,7 +14,7 @@ This paper explores the impact of banking regulation on a competitive credit mar
 # Working Papers
 
 **[The role of central bank digital currency in an increasingly digital economy](/assets/papers/CBDC_digital_economy.pdf)**<br/>
-Available as [Bank of England Staff Working Paper No. 1,101.](https://www.bankofengland.co.uk/working-paper/2024/the-role-of-cbdc-in-an-increasingly-digital-economy)*<br/>
+*Available as [Bank of England Staff Working Paper No. 1,101.](https://www.bankofengland.co.uk/working-paper/2024/the-role-of-cbdc-in-an-increasingly-digital-economy)*<br/>
 The introduction of an unremunerated retail central bank digital currency (CBDC) is currently under consideration by several central banks. Motivated by the decline in transactional cash usage and the increase in online sales in the UK, this paper provides a theoretical framework to study the underlying drivers of these trends and the welfare implications of introducing an unremunerated retail CBDC. A cash credit model with physical and digital retail sectors is developed, with endogenous entry of firms and directed consumer search. Calibrating to UK data between 2010 and 2022 the model suggests that there are positive welfare gains from introducing an unremunerated retail CBDC, but these have likely declined over time.
 
 
