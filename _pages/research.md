@@ -20,6 +20,7 @@ This paper explores the impact of banking regulation on a competitive credit mar
 
 **[A Model of Monetary Singleness](/assets/papers/Hemingway_money_singleness.pdf)**<br/>
 *Revise & Resubmit,* **Review of Finance.**<br/>
+*Also available as [Bank of England Staff Working Paper No. 1,174.](https://www.bankofengland.co.uk/working-paper/2026/a-model-of-monetary-singleness)*<br/>
 Rapid innovation in digital payments and the advent of new forms of privately issued digital money have increased interest in the concept of singleness of money. This paper provides an analytical framework for studying the singleness of money consisting of a three-period banking model where banks choose both the unit of account of their debt and whether it can be used as a medium of exchange. The paper suggests that small deviations from a common unit of account may still be consistent with the efficient allocation but that inefficient equilibria are more likely to occur if the newly introduced forms of digital money are issued by private entities with distinct business models from incumbent financial institutions. The model suggests that cash also has an important role to play in promoting the singleness of money by providing a means of payment in the absence of interbank transfers.
 
 
